@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_budget"
+        android:icon="@drawable/ic_dollar"
+        android:title="@string/budget"
+        />
+    <item
+        android:id="@+id/menu_genOtp"
+        android:icon="@drawable/ic_key_black"
+        android:title="@string/genOtp" />
+    <item
+        android:id="@+id/menu_summary"
+        android:icon="@drawable/ic_summary"
+        android:title="@string/summary" />
+    <item
+        android:id="@+id/menu_awareness"
+        android:icon="@drawable/ic_awareness"
+        android:title="@string/awareness" />
+
+</menu>
+

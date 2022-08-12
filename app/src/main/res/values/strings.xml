@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Control Spending App</string>
+    <string name="budgetLeft">Budget Left</string>
+    <string name="budgetUsed">Budget Used</string>
+    <string name="totalBudget">Total Budget</string>
+    <string name="highestSpent">Highest Spend</string>
+    <string name="amtOvershot">Amount Overshot</string>
+    <string name="totalTransactions">Total Transactions</string>
+    <string name="income">Income</string>
+    <string name="budget">Budget</string>
+    <string name="percent">Percent</string>
+    <string name="selectBudget">Select Budget</string>
+    <string name="budgetLeftWithSign">Budget Left : $</string>
+    <string name="generatedOtp">Generated OTP</string>
+    <string name="id">ID</string>
+    <string name="date">Date</string>
+    <string name="budgetSpent">Budget Spent</string>
+    <string name="summary">Summary</string>
+    <string name="question">Questions</string>
+    <string name="hint">Hint</string>
+    <string name="input">Input</string>
+    <string name="textHolder">Text Holder</string>
+    <string name="alert">Alert</string>
+    <string name="clicksRequired">Clicks required</string>
+    <string name="youClicked">You clicked</string>
+    <string name="title">Title</string>
+    <string name="awareness">Awareness</string>
+    <string name="adjustBudget">Adjust Budget</string>
+    <string name="amount">Amount</string>
+    <string name="tip">Tip</string>
+    <string name="description">Description</string>
+    <string name="tag">Tag</string>
+    <string name="budgetSetForThisMonth"> Budget set for this month: </string>
+    <string name="budgetRemaining">Budget remaining</string>
+    <string name="didYouKnow">Did you know?</string>
+
+    <!-- signs and number -->
+    <string name="minus">-</string>
+    <string name="equal">=</string>
+    <string name="dollarSign">$</string>
+    <string name="intialNum">0</string>
+
+    <!-- button names -->
+    <string name="confirm">Confirm</string>
+    <string name="back">Back</string>
+    <string name="genOtp">Generate OTP</string>
+    <string name="modify">Modify</string>
+    <string name="remain">Remain</string>
+    <string name="details">Details</string>
+    <string name="go">Go</string>
+
+    <string-array name="fixedBudget">
+        <item>20</item>
+        <item>30</item>
+        <item>50</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+    </string-array>
+
+    <string-array name="fixedPercent">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
